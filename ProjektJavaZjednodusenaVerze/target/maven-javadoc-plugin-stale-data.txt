@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/janze/Documents/NetBeansProjects/ProjektJavaZjednodusenaVerze/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/janze/Documents/NetBeansProjects/ProjektJavaZjednodusenaVerze/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'EvidencePojisteni_ZjednodusenaVerze 1.0 API'
+-use
+-version
+-windowtitle
+'EvidencePojisteni_ZjednodusenaVerze 1.0 API'
+itnetwork.cz.projektjavazjednodusenaverze
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\src\main\java = 1693069770800
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\allclasses-index.html = 1695806947521
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\allpackages-index.html = 1695806947521
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\copy.svg = 1695806947606
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\element-list = 1695806947406
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\help-doc.html = 1695806947601
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\index-all.html = 1695806947568
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\index.html = 1695806947585
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\member-search-index.js = 1695806947537
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\module-search-index.js = 1695806947521
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\overview-tree.html = 1695806947484
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\package-search-index.js = 1695806947537
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\script.js = 1695806947606
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\search-page.js = 1695806947621
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\search.html = 1695806947584
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\search.js = 1695806947621
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\stylesheet.css = 1695806947606
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\tag-search-index.js = 1695806947537
+C:\Users\janze\Documents\NetBeansProjects\ProjektJavaZjednodusenaVerze\target\site\apidocs\type-search-index.js = 1695806947537
