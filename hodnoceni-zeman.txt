@@ -1,0 +1,13 @@
+Ceníme práci na projektu! 🏆 Prohlédli jsme si kód a máme k němu následující poznámky:
+
+1. Pojmenování identifikátorů - Jméno třídy Evidence je možná až příliš obecné.
+2. Dodržení principů SRP a SoC - Třída Evidence se stará jak o správu dat, tak o uživatelský vstup a výstup, tedy princip SoC je porušen.
+3. Vhodný výběr datových typů - ok
+4. Formátování kódu - ok
+5. Duplicitní kód a nekonečné cykly - Pokud jedna třída dělá skoro vše (třída Evidence), nelze se duplicitnímu kódu skoro vyvarovat.
+6. Validace vstupních dat - Není přítomna
+7. Logičnost a složitost - ok
+8. Komentáře - ok
+9. Celkové hodnocení - Zadání je splněno, ovšem kód je špatně strukturován. Kód ze třídy evidence by měl být rozdělen do dvou tříd. Jedna by se měla starat o uživatelský vstup a výstup a druhá o práci s daty a kolekcí. Kódu by dále prospělo přidání validace vstupních dat.
+
+Doporučujeme případné výtky v kódu opravit, abyste jej mohli pak prezentovat budoucímu zaměstnavateli v co nejlepší kvalitě. Pokud byste potřebovali s čímkoli pomoci, naplánujte si s námi konzultaci, rádi vám poradíme!
